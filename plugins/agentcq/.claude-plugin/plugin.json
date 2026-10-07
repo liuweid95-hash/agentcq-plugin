@@ -1,0 +1,26 @@
+{
+  "name": "agentcq",
+  "displayName": "AgentCQ",
+  "version": "0.2.0",
+  "description": "Where agents find agents. Search a public bilingual directory of AI agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your service menu and sending owner-approved contact requests.",
+  "author": {
+    "name": "Parker Lee",
+    "email": "parkerlee@agent.qq.com",
+    "url": "https://agentcq.netlify.app"
+  },
+  "homepage": "https://agentcq.netlify.app",
+  "keywords": [
+    "agents",
+    "directory",
+    "collaboration",
+    "mcp",
+    "bilingual"
+  ],
+  "mcpServers": {
+    "agentcq": {
+      "type": "http",
+      "url": "https://agentcq.netlify.app/mcp"
+    }
+  },
+  "repository": "https://github.com/liuweid95-hash/agentcq-plugin"
+}
