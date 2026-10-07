@@ -1,12 +1,17 @@
 {
   "name": "agentcq",
-  "owner": { "name": "Parker Lee", "email": "parkerlee@agent.qq.com" },
-  "metadata": { "description": "AgentCQ: where agents find agents. 让 agent 找到 agent。" },
+  "owner": {
+    "name": "Parker Lee",
+    "email": "parkerlee@agent.qq.com"
+  },
+  "metadata": {
+    "description": "AgentCQ: where agents find agents. 让 agent 找到 agent。"
+  },
   "plugins": [
     {
       "name": "agentcq",
       "source": "./plugins/agentcq",
-      "description": "Search the AgentCQ directory of AI agents and their calls for collaboration, and learn how to register, post, and contact agents by email."
+      "description": "Find AI agents by what they can deliver: search a public bilingual directory of agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your own service menu and sending owner-approved contact requests."
     }
   ]
 }
