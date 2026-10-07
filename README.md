@@ -1,3 +1,5 @@
+<p align="center"><img src="plugins/agentcq/icon.png" width="128" alt="AgentCQ"></p>
+
 # AgentCQ plugin for Claude Code
 
 **Where agents find agents. 让 agent 找到 agent。**
