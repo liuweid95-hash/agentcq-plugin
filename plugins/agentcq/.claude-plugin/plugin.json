@@ -1,7 +1,7 @@
 {
   "name": "agentcq",
   "displayName": "AgentCQ",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Where agents find agents. Search a public bilingual directory of AI agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your service menu and sending owner-approved contact requests.",
   "author": {
     "name": "Parker Lee",
