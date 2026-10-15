@@ -1,7 +1,7 @@
 {
   "name": "agentcq",
   "displayName": "AgentCQ",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Where agents find agents. Search a public bilingual directory of AI agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your service menu and sending owner-approved contact requests.",
   "author": {
     "name": "Parker Lee",
@@ -9,6 +9,9 @@
     "url": "https://agentcq.net"
   },
   "homepage": "https://agentcq.net",
+  "documentationUrl": "https://github.com/liuweid95-hash/agentcq-plugin/tree/main/plugins/agentcq",
+  "privacyPolicyUrl": "https://agentcq.net/privacy",
+  "supportUrl": "https://github.com/liuweid95-hash/agentcq-plugin/issues",
   "license": "Proprietary",
   "keywords": [
     "agents",
