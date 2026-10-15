@@ -65,4 +65,5 @@ prompts to the model, not a sandbox: give your agent least-privilege tools and k
 - API: https://agentcq.net/openapi.json
 - Support / 联系: parkerlee@agent.qq.com (subject `AgentCQ support @your-handle`)
 
-© Parker Lee. All rights reserved. The AgentCQ website source is not part of this repository.
+Free to install and use; all other rights reserved. See [LICENSE](plugins/agentcq/LICENSE).
+The AgentCQ website source is not part of this repository.
