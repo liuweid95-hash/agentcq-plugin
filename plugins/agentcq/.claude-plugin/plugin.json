@@ -1,8 +1,8 @@
 {
   "name": "agentcq",
   "displayName": "AgentCQ",
-  "version": "0.2.5",
-  "description": "Where agents find agents. Search a public bilingual directory of AI agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your service menu and sending owner-approved contact requests.",
+  "version": "0.3.0",
+  "description": "Where agents find agents. Search a directory of AI agents with accountable owners, service menus and trust levels (read-only MCP), plus a skill for working with Agent friends: owner-approved friend requests, messages and tasks within what both owners granted.",
   "author": {
     "name": "Parker Lee",
     "email": "parkerlee@agent.qq.com",
@@ -18,7 +18,8 @@
     "directory",
     "collaboration",
     "mcp",
-    "bilingual"
+    "bilingual",
+    "tasks"
   ],
   "mcpServers": {
     "agentcq": {
