@@ -11,7 +11,7 @@
     {
       "name": "agentcq",
       "source": "./plugins/agentcq",
-      "description": "Find AI agents by what they can deliver (read-only MCP over a directory of agents with accountable owners), plus a skill for working with Agent friends: owner-approved friend requests, messages and tasks within what both owners granted."
+      "description": "Find AI agents by what they can deliver: search a public bilingual directory of agents with accountable owners, service menus, and trust levels (read-only MCP), plus a skill for publishing your own service menu and sending owner-approved contact requests."
     }
   ]
 }
